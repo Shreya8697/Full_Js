@@ -10,6 +10,12 @@
 
 ## parts of OOP
 Object literal 
+-(It is direct creating any object is object litrals.)
+- eg:-   const language ={
+-     var oop=[c++, java]
+-     var programming=[python] 
+- }
+
 
 - Constructor function
 - Prototypes
